@@ -1,0 +1,20 @@
+F:\My Projects\FuelMan\FuelManApi\FuelManApi\Service\FuelManApi.Service.Core\bin\Debug\netcoreapp2.0\appsettings.json
+F:\My Projects\FuelMan\FuelManApi\FuelManApi\Service\FuelManApi.Service.Core\bin\Debug\netcoreapp2.0\FuelManApi.Service.Core.deps.json
+F:\My Projects\FuelMan\FuelManApi\FuelManApi\Service\FuelManApi.Service.Core\bin\Debug\netcoreapp2.0\FuelManApi.Service.Core.dll
+F:\My Projects\FuelMan\FuelManApi\FuelManApi\Service\FuelManApi.Service.Core\bin\Debug\netcoreapp2.0\FuelManApi.Service.Core.pdb
+F:\My Projects\FuelMan\FuelManApi\FuelManApi\Service\FuelManApi.Service.Core\bin\Debug\netcoreapp2.0\FuelManApi.Constants.dll
+F:\My Projects\FuelMan\FuelManApi\FuelManApi\Service\FuelManApi.Service.Core\bin\Debug\netcoreapp2.0\FuelManApi.Contracts.dll
+F:\My Projects\FuelMan\FuelManApi\FuelManApi\Service\FuelManApi.Service.Core\bin\Debug\netcoreapp2.0\FuelManApi.Contracts.pdb
+F:\My Projects\FuelMan\FuelManApi\FuelManApi\Service\FuelManApi.Service.Core\bin\Debug\netcoreapp2.0\FuelManApi.Constants.pdb
+F:\My Projects\FuelMan\FuelManApi\FuelManApi\Service\FuelManApi.Service.Core\obj\Debug\netcoreapp2.0\FuelManApi.Service.Core.csprojResolveAssemblyReference.cache
+F:\My Projects\FuelMan\FuelManApi\FuelManApi\Service\FuelManApi.Service.Core\obj\Debug\netcoreapp2.0\FuelManApi.Service.Core.csproj.CoreCompileInputs.cache
+F:\My Projects\FuelMan\FuelManApi\FuelManApi\Service\FuelManApi.Service.Core\obj\Debug\netcoreapp2.0\FuelManApi.Service.Core.AssemblyInfoInputs.cache
+F:\My Projects\FuelMan\FuelManApi\FuelManApi\Service\FuelManApi.Service.Core\obj\Debug\netcoreapp2.0\FuelManApi.Service.Core.AssemblyInfo.cs
+F:\My Projects\FuelMan\FuelManApi\FuelManApi\Service\FuelManApi.Service.Core\obj\Debug\netcoreapp2.0\FuelManApi.Service.Core.dll
+F:\My Projects\FuelMan\FuelManApi\FuelManApi\Service\FuelManApi.Service.Core\obj\Debug\netcoreapp2.0\FuelManApi.Service.Core.pdb
+C:\Users\Sibeesh\Desktop\FuelManApi.Service.Core\obj\Debug\netcoreapp2.0\FuelManApi.Service.Core.csprojResolveAssemblyReference.cache
+C:\Users\Sibeesh\Desktop\FuelManApi.Service.Core\obj\Debug\netcoreapp2.0\FuelManApi.Service.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sibeesh\Desktop\FuelManApi.Service.Core\obj\Debug\netcoreapp2.0\FuelManApi.Service.Core.AssemblyInfoInputs.cache
+C:\Users\Sibeesh\Desktop\FuelManApi.Service.Core\obj\Debug\netcoreapp2.0\FuelManApi.Service.Core.AssemblyInfo.cs
+C:\Users\Sibeesh\Desktop\FuelManApi.Service.Core\obj\Debug\netcoreapp2.0\FuelManApi.Service.Core.dll
+C:\Users\Sibeesh\Desktop\FuelManApi.Service.Core\obj\Debug\netcoreapp2.0\FuelManApi.Service.Core.pdb
