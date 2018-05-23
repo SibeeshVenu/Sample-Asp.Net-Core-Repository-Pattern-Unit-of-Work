@@ -5,7 +5,8 @@ This is a sample C# Asp.Net core Asp.Net core repostitory pattern using Unit of 
 The Unit Of Work can be called from any business layer as follows.
 
 
- ```public class AuthDataService : IAuthDataService
+ ```
+ public class AuthDataService : IAuthDataService
     {
         private readonly IUnitOfWork _unit;
 
@@ -29,4 +30,5 @@ The Unit Of Work can be called from any business layer as follows.
             _unit.Users.Add(user);
             _unit.Complete();
         }
-    }```
+    }
+    ```
