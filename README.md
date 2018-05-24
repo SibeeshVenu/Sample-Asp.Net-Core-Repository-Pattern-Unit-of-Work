@@ -15,11 +15,6 @@ The Unit Of Work can be called from any business layer as follows.
             _unit = unit;
         }
 
-        private AuthDataService()
-        {
-            _unit = new UnitOfWork(new FuelManContext());
-        }
-
         public User IsValidCredentials(LoginRequest request)
         {
             return _unit.Users.LoginDetailsMatched(request.Email, request.Password);
